@@ -1,0 +1,10 @@
+.env
+data/
+db/
+output/
+config.toml
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+dist/
