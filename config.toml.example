@@ -1,0 +1,17 @@
+# Copy this file to config.toml and fill in your details.
+# config.toml is gitignored — it will never be committed.
+
+[contact]
+name = "Your Name"
+email = "you@example.com"
+phone = "555-000-0000"
+location = "City, ST"
+linkedin = "yourhandle"
+github = "yourhandle"
+website = ""
+
+[database]
+path = "db/resume.db"
+
+[output]
+directory = "output"
